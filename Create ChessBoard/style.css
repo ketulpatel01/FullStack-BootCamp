@@ -1,0 +1,29 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.row1{
+    width: 800px;
+    height: 100px;
+}
+
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(177,228,185);
+    float: left;
+    font-size: 500%;
+    text-align: center;
+}
+
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(112,162,163);
+    float: left;
+    font-size: 500%;
+    text-align: center;
+}
